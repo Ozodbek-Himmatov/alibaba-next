@@ -41,13 +41,11 @@
             </div>
             <div class="flex items-center">
               <img
-                src="icon/windows.svg"
-                alt=""
+                src="/icon/windows.svg"
                 class="border border-r-0 rounded-l-md p-2 cursor-pointer h-[35px] w-[35px] bg-[#DEE2E7]"
               />
               <img
-                src="icon/hamburger-2.svg"
-                alt=""
+                src="/icon/hamburger-2.svg"
                 class="border h-[35px] w-[35px] rounded-r-md p-2 cursor-pointer bg-white"
               />
             </div>
@@ -65,7 +63,9 @@
         <div class="grid grid-cols-3 gap-y-10 gap-x-[106px]">
           <MobileCard />
         </div>
-        <div class="flex items-center justify-end gap-5 py-5 mt-5 mb-36 text-end">
+        <div
+          class="flex items-center justify-end gap-5 py-5 mt-5 mb-36 text-end"
+        >
           <div class="bg-white px-2 py-2 border border-gray-300 rounded-lg">
             <select
               class="cursor-pointer bg-white outline-none pr-5 text-gray-800"
