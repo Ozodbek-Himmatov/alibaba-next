@@ -67,8 +67,8 @@
     <div class="flex flex-col gap-[18px]">
       <h2 class="text-[#1C1C1C] font-medium">Get app</h2>
       <div class="flex flex-col gap-[5px]">
-        <img src="img/app-store.png" alt="" class="cursor-pointer mt-2" />
-        <img src="img/google-play.png" alt="" class="cursor-pointer mt-2" />
+        <img src="/img/app-store.png" alt="" class="cursor-pointer mt-2" />
+        <img src="/img/google-play.png" alt="" class="cursor-pointer mt-2" />
       </div>
     </div>
   </footer>

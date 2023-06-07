@@ -14,7 +14,7 @@
               class="h-[90px] w-[90px] flex items-center bg-white rounded-lg border border-gray-300"
             >
               <img
-                :src="`img/${el.img}.png`"
+                :src="`/img/${el.img}.png`"
                 alt=""
                 class="h[70px] mx-auto p-2"
               />
@@ -110,7 +110,7 @@
             Checkout
           </button>
           <div class="flex items-center justify-center gap-5 pt-5">
-            <img v-for="el in payments" :src="`img/${el}.png`" />
+            <img v-for="el in payments" :src="`/img/${el}.png`" />
           </div>
         </div>
       </div>
@@ -139,7 +139,7 @@
           <div
             class="bg-[#EEEEEE] w-[290px] h-[260px] flex items-center rounded-lg"
           >
-            <img :src="`img/${el}.png`" class="mx-auto" />
+            <img :src="`/img/${el}.png`" class="mx-auto" />
           </div>
           <h2 class="py-3 text-xl">$99.50</h2>
           <p class="text-[#606060] text-md">

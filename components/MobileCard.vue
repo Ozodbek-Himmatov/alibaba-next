@@ -4,7 +4,7 @@
     class="bg-white border border-[#DEE2E7] w-[350px] h-[500px] rounded-lg hover:rounded-none cursor-pointer duration-300"
   >
     <img
-      :src="`img/${el}.png`"
+      :src="`/img/${el}.png`"
       class="mx-auto h-[215px] w-[215px] my-14 object-contain"
     />
     <div class="border-t border-[#EFF2F4] p-5">
