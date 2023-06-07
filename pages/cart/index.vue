@@ -159,7 +159,6 @@
     <div
       class="mt-5 rounded-lg text-white flex items-center justify-between bg-[#005ADE] p-5 h-[120px] relative"
     >
-      <img src="img/blue-back.png" class="absolute left-0 z-0" />
       <div class="z-50">
         <h2 class="text-2xl">Super discount on more than 100 USD</h2>
         <p class="text-sm">Have you ever finally just write dummy info</p>
