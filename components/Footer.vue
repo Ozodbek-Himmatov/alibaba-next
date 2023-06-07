@@ -5,7 +5,7 @@
     class="container mx-auto w-full bg-white py-10 flex items-center justify-between"
   >
     <div>
-      <img src="icon/logo.svg" alt="" />
+      <img src="/icon/logo.svg" alt="" />
       <p class="pt-5 text-[18px] text-gray-600">
         Best information about the company <br />
         gies here but now lorem ipsum is
